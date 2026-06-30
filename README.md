@@ -9,7 +9,7 @@ Projekt akademicki zrealizowany w ramach laboratoriów uniwersyteckich. Jest to 
 
 Program służy do bezpiecznego szyfrowania wiadomości tekstowych oraz generowania kodów kontrolnych.
 
-### 💡 Jak to działa? (W prostych słowach)
+###  Jak to działa? (W prostych słowach)
 Program wykorzystuje dwa różne algorytmy kryptograficzne, które współpracują ze sobą jak idealny zespół ochroniarzy:
 
 1. **AES tworzy unikalny, zakodowany symbol (Szyfrowanie):** Algorytm AES bierze zwykły tekst i zamienia go w unikalny, nieczytelny bełkot. Dba o to, aby nikt niepożądany nie mógł przeczytać wiadomości bez znajomości tajnego hasła.
@@ -24,7 +24,7 @@ An academic application developed as part of university laboratory courses. It i
 
 The purpose of the software is secure text encryption and checksum generation.
 
-### 💡 How does it work? (In simple words)
+###  How does it work? (In simple words)
 The program combines two different cryptographic standards that work together as a perfect security team:
 
 1. **AES creates a unique, encoded symbol (Encryption):** The AES algorithm takes plain text and transforms it into a unique, unreadable ciphertext. It ensures confidentiality, meaning no one can read the message without the secret password.
